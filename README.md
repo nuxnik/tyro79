@@ -21,7 +21,7 @@ This is a work in progress and includes various cad files relating to the Eachin
 
 ### Insta 360 Go
 
-This mount require 4 x M2 screws and washers. It is also available as a printable STL file on [Thingiverse]()
+This mount requires 4 x M2 screws and washers. It is also available as a printable STL file on [Thingiverse](https://www.thingiverse.com/thing:4792154)
 
 ![Insta360 Go Mount](img/insta3604.jpg)
 ![Insta360 Go Mount](img/insta3601.jpg)
@@ -30,7 +30,7 @@ This mount require 4 x M2 screws and washers. It is also available as a printabl
 
 ### Runcam 5
 
-This mount require 4 x M2 screws and washers. It is also available as a printable STL file on [Thingiverse]()
+This mount requires 4 x M2 screws and washers. It is also available as a printable STL file on [Thingiverse]()
 
 ![RunCam 5](img/runcam3.jpg)
 ![RunCam 5](img/runcam1.jpg)
@@ -38,7 +38,7 @@ This mount require 4 x M2 screws and washers. It is also available as a printabl
 
 ### Runcam 5
 
-The SQ12 mount is a work in progress with the new mounting base. However, a different version is already available on [github](https://github.com/nuxnik/tyro79-sq12-mount) and also as a printable STL file on [Thingiverse](https://www.thingiverse.com/thing:4700483)
+The SQ12 mount is a rework of a mount I already made. However, this version has an updated base. A different version is already available on [github](https://github.com/nuxnik/tyro79-sq12-mount) and also as a printable STL file on [Thingiverse](https://www.thingiverse.com/thing:4700483)
 
 ![SQ12](img/mount1.jpg)
 ![SQ12](img/mount2.jpg)
