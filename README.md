@@ -38,7 +38,7 @@ This mount require 4 x M2 screws and washers. It is also available as a printabl
 
 ### Runcam 5
 
-The SQ12 mount is a work in progress with the new mounting base. However, a different version is already available as a printable STL file on [Thingiverse](https://www.thingiverse.com/thing:4700483)
+The SQ12 mount is a work in progress with the new mounting base. However, a different version is already available on [github](https://github.com/nuxnik/tyro79-sq12-mount) and also as a printable STL file on [Thingiverse](https://www.thingiverse.com/thing:4700483)
 
 ![SQ12](img/mount1.jpg)
 ![SQ12](img/mount2.jpg)
