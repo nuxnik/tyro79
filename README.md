@@ -1,6 +1,6 @@
-# Eachine Tyro79 - CAD FILES
+# Eachine Tyro79
 
-This is a work in progress and includes various cad files relating to the Eachine Tyro79. All models were made using [solvespace](https://solvespace.com/index.pl), a free and fun to use CAD application.
+This is a work in progress and includes various cad and config files relating to the Eachine Tyro79. All 3D models were made using [solvespace](https://solvespace.com/index.pl), a free and fun to use CAD application.
 
 ## Files
 
